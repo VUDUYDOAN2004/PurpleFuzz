@@ -1,5 +1,5 @@
 import random
-from mutators.base_mutator import BaseMutator
+from base_mutator import BaseMutator
 
 class AddEscapeChars(BaseMutator):
     """
